@@ -1,0 +1,70 @@
+.wrapper{
+    background-color: #99eee3;
+}
+.body img{
+    background-image: url("img_vin.jpg");
+    opacity: 70%;
+    width: 1100px;
+    height: 700px;
+    margin-top: 87px;
+    margin-left: 120px;
+
+
+    position: absolute;
+}
+.table{
+    width: 750px;
+    height: 550px;
+    
+    color: #000000;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 275px;
+
+
+}
+
+.td1{
+    background-color: #ff0000e8;
+    text-align : center;  
+}
+.td2{
+    background-color: #025502b7;
+    text-align : center;   
+}
+.td3{
+    background-color: #f83e06a9;
+    text-align : center;   
+}
+.td4{
+    background-color: #141616cc;
+    text-align : center;   
+}
+.td5{
+    background-color: #e5ff00af;
+    text-align : center;   
+}
+.td6{
+    background-color: #ff002bb6;
+    text-align : center;   
+}
+.td7{
+    background-color: #f100a1b6;
+    text-align : center;   
+}
+.td8{
+    background-color: #0101f1b6;
+    text-align : center;   
+}
+.td9{
+    background-color: #8902f8b6;
+    text-align : center;   
+}
+.td10{
+    background-color: #422010c0;
+    text-align : center;   
+}
+.td{
+    background-color: #ffffff62;
+    text-align : center;   
+}
